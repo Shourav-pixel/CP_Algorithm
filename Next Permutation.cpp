@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 #define ll long long
 using namespace std;
-
 int main()
 {
   ll t;
@@ -51,7 +50,7 @@ int main()
   }
 
 
-
-
-
 }
+//I.P = 2 1 5 4 3 0 0
+//O/P = 2 3 0 0 1 4 5
+
